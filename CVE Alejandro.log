@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.2.18)  11 APR 2018 13:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.2.18)  17 APR 2018 14:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**"CV Alejandro.tex"
-(./CV Alejandro.tex
+**"CVE Alejandro.tex"
+(./CVE Alejandro.tex
 LaTeX2e <2016/02/01>
 Babel <3.9q> and hyphenation patterns for 81 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
@@ -577,8 +577,8 @@ Package: geometry 2010/09/12 v5.6 Page Geometry
 LaTeX Warning: Unused global option(s):
     [letter].
 
-(./CV Alejandro.aux)
-\openout1 = `"CV Alejandro.aux"'.
+(./CVE Alejandro.aux)
+\openout1 = `"CVE Alejandro.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
 LaTeX Font Info:    ... okay on input line 10.
@@ -638,9 +638,9 @@ LaTeX Info: Redefining \ref on input line 10.
 LaTeX Info: Redefining \pageref on input line 10.
 LaTeX Info: Redefining \nameref on input line 10.
 
-(./CV Alejandro.out) (./CV Alejandro.out)
+(./CVE Alejandro.out) (./CVE Alejandro.out)
 \@outlinefile=\write3
-\openout3 = `"CV Alejandro.out"'.
+\openout3 = `"CVE Alejandro.out"'.
 
 
 *geometry* driver: auto-detecting
@@ -706,41 +706,47 @@ Underfull \hbox (badness 10000) in paragraph at lines 16--29
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--29
+
+ []
+
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 30.
 (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 30.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 47.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 48.
  [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./CV.jpg>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 47.
- (./CV Alejandro.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 47.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 47.
-Package rerunfilecheck Info: File `"CV Alejandro".out' has not changed.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 48.
+ (./CVE Alejandro.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 48.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 48.
+Package rerunfilecheck Info: File `"CVE Alejandro".out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 47.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 48.
  ) 
 Here is how much of TeX's memory you used:
- 6747 strings out of 493029
- 94955 string characters out of 6136234
- 187820 words of memory out of 5000000
- 10205 multiletter control sequences out of 15000+600000
+ 6745 strings out of 493029
+ 94951 string characters out of 6136234
+ 187822 words of memory out of 5000000
+ 10203 multiletter control sequences out of 15000+600000
  9369 words of font info for 36 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 29i,6n,24p,382b,322s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 29i,6n,24p,372b,322s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on "CV Alejandro.pdf" (1 page, 305841 bytes).
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on "CVE Alejandro.pdf" (1 page, 313243 bytes).
 PDF statistics:
- 36 PDF objects out of 1000 (max. 8388607)
- 26 compressed objects within 1 object stream
+ 40 PDF objects out of 1000 (max. 8388607)
+ 29 compressed objects within 1 object stream
  2 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
